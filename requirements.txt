@@ -1,0 +1,4 @@
+psycopg2
+py-bcrypt
+pandas
+PyQt5

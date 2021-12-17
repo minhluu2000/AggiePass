@@ -1,0 +1,7 @@
+Database commands:
+    Access database:
+        sudo su postgres
+        \c password_manager
+    Delete commands:
+        DELETE FROM <table> WHERE uid = '<uid>';
+        DROP TABLE films, distributors;
